@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="firstapp" max_length="40" name="x_173736_firstapp_firstapp" type="collection">
+        <element label="Name" max_length="35" name="name" type="string"/>
+        <element label="Place" max_length="35" name="place" type="string"/>
+    </element>
+</database>
